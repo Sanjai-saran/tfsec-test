@@ -13,4 +13,4 @@ resource "aws_instance" "bad_example" {
     delete_on_termination = false
     encrypted = false
   }
-}
+} 
